@@ -1,0 +1,44 @@
+h1 {
+    color: rgb(67, 125, 250);
+    text-align: center;
+    text-transform: uppercase;
+}
+
+th,
+td {
+    text-align: center;
+    width: 120px;
+    height: 30px;
+}
+
+#res {
+    text-align: right;
+
+}
+
+#name {
+    text-align: left;
+}
+
+table {
+    border: 1px;
+    border-style: solid;
+    border-collapse: collapse;
+
+}
+
+tr,
+th,
+td {
+    border: 1px solid;
+    border-color: black;
+}
+
+#header {
+    color: white;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
