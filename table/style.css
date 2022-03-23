@@ -16,7 +16,7 @@ td {
 
 }
 
-#name {
+.name {
     text-align: left;
 }
 
@@ -34,7 +34,7 @@ td {
     border-color: black;
 }
 
-#header {
+.header {
     color: white;
 }
 
