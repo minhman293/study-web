@@ -1,0 +1,53 @@
+.main {
+    width: 530px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 16px;
+}
+
+img {
+    width: 170px;
+    height: 100px;
+    float: left;
+}
+
+.p1 p,
+.p11 p {
+    margin: 0 10px;
+    width: 330px;
+    display: inline-block;
+    font-size: 14px;
+}
+
+.p1,
+.p11 {
+    margin-top: 20px;
+    border-bottom: 1.2px solid rgb(218, 216, 216);
+    height: 150px;
+}
+
+.p11 {
+    border-top: 1.2px solid rgb(218, 216, 216);
+}
+
+.img3 {
+    position: relative;
+    height: 100px;
+    width: max-content;
+    float: left;
+
+}
+
+.img3 i {
+    position: absolute;
+    left: 0;
+    background-color: rgb(213, 211, 211);
+    padding: 5px;
+    bottom: 0;
+    font-size: 80%;
+    opacity: 0.7;
+}
