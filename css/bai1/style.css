@@ -1,0 +1,23 @@
+h1 {
+    color: rgb(154, 1, 1);
+    font-size: 20px;
+    text-align: center;
+}
+
+.main {
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+p::first-letter {
+    font-size: 50px;
+    color: red;
+}
+
+.highlight {
+    color: rgb(18, 149, 248);
+}
