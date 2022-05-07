@@ -1,0 +1,39 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    margin: 20px auto;
+    width: 500px;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: rgb(173, 230, 227);
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 5px;
+    margin: 10px 0;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+#res {
+    display: flex;
+    justify-content: space-between;
+}
+
+#ans1,
+#ans2 {
+    border: 1px solid gray;
+    width: 400px;
+    height: 29.5px;
+    margin: 10px 0;
+    display: inline-block;
+    padding: 2px;
+}
+
+#check {
+    margin: 10px 0;
+    height: 30px;
+}
